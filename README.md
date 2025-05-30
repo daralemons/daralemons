@@ -1,16 +1,17 @@
-## Hi there 👋
+# ✨ Olá! Eu sou a Dara
 
-<!--
-**daralemons/daralemons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este aqui é um **perfil secundário** no GitHub que uso para desafios técnicos e contatos iniciais.  
+Meu perfil principal, onde compartilho projetos completos, estudos e meu portfólio, está logo aqui abaixo. 👇
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Perfil principal no GitHub:
+🔗 [github.com/daluih](https://github.com/daluih) 💚
+
+---
+
+Se quiser trocar uma ideia, estou por lá! 💬  
+Fique à vontade para entrar em contato! 😊
+
+Obrigada pela visita 😊 
+またね!
